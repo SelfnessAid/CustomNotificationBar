@@ -22,7 +22,7 @@ An iOS message bar, written in Swift
 You can use [Carthage](https://github.com/Carthage/Carthage):
 
 ```ogdl
-github "JanGorman/SwiftMessageBar"
+github "SelfnessAid/SwiftMessageBar"
 ```
 
 or [CocoaPods](http://cocoapods.org):
